@@ -2,19 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header" width="100%"/>
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mohamed+Aziz+%F0%9F%91%8B;Junior+Full-Stack+Developer;C%23+%2F+ASP.NET+%2F+Laravel+%2F+Angular;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mohamed+Aziz+%F0%9F%91%8B;Junior+Full-Stack+Developer;C%23+%2F+ASP.NET+%2F+Laravel+%2F+Angular;Building+things+that+matter." alt="Typing SVG" />
 
-<p>
-  <a href="https://www.linkedin.com/in/med-aziz/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="http://medaziz.free.nf/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Yhaziz">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/med-aziz/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="http://medaziz.free.nf/">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+<a href="https://github.com/Yhaziz">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Yhaziz&color=58A6FF&style=flat-square&label=Profile+Views" />
 
@@ -26,13 +28,13 @@
 
 ```ts
 const medAziz = {
-  name:        "Yahyaoui Mohamed Aziz",
-  alias:       "Yhaziz",
-  role:        "Junior Full-Stack Developer C# , ASP.NET",
-  stack:       ["C#", "ASP.NET", "Laravel", "Angular", "Spring Boot", "PHP"],
-  databases:   ["SQL Server Express", "PostgreSQL"],
-  currentlyOn: ["MES SitflowSolution"],
-  learning:    "AI/ML integrations & clean architecture & PowerBI",
+  name: "Yahyaoui Mohamed Aziz",
+  alias: "Yhaziz",
+  role: "Junior Full-Stack Developer",
+  stack: ["C#", "ASP.NET", "Laravel", "Angular", "Spring Boot", "PHP"],
+  databases: ["SQL Server Express", "PostgreSQL"],
+  currentlyOn: ["SitflowSolution", "Central-Stock"],
+  learning: "AI/ML integrations & clean architecture & PowerBI",
 };
 ```
 
@@ -41,6 +43,7 @@ const medAziz = {
 ## 🛠️ Tech stack
 
 ### 🔷 Backend
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -49,15 +52,16 @@ const medAziz = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔶 Frontend
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Databases & tools
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server_Express-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -68,9 +72,7 @@ const medAziz = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yhaziz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yhaziz&theme=github-dark-blue&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhaziz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhaziz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -80,7 +82,7 @@ const medAziz = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yhaziz&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=Yhaziz&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
@@ -90,7 +92,11 @@ const medAziz = {
 
 <div align="center">
 
-![snake gif](https://github.com/Yhaziz/Yhaziz/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yhaziz/Yhaziz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yhaziz/Yhaziz/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yhaziz/Yhaziz/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -100,6 +106,6 @@ const medAziz = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code." – John Johnson*
+_"First, solve the problem. Then, write the code." – John Johnson_
 
 </div>

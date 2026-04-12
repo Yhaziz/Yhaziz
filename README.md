@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Aziz 👋</h1>
 
 <p align="center">
-  <b>Junior Developer · C# / ASP.NET · Tunisia</b>
+  <b>Junior Developer · C# / ASP.NET </b>
 </p>
 
 <p align="center">

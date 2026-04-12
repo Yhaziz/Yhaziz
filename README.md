@@ -28,15 +28,13 @@
 
 ```ts
 const medAziz = {
-  name:        "Yahyaoui Mohamed Aziz",
-  alias:       "Yhaziz",
-  location:    "Tunisia 🇹🇳",
-  role:        "Junior Full-Stack Developer",
-  stack:       ["C#", "ASP.NET", "Laravel", "Angular", "Spring Boot", "PHP"],
-  databases:   ["SQL Server Express", "PostgreSQL"],
-  currentlyOn: ["SitflowSolution", "Central-Stock"],
-  learning:    "AI/ML integrations & clean architecture",
-  funFact:     "I turned business cards into structured data with OCR + NLP 🤖",
+  name: "Yahyaoui Mohamed Aziz",
+  alias: "Yhaziz",
+  role: "Junior Full-Stack Developer C# & ASP.NET",
+  stack: ["C#", "ASP.NET", "Laravel", "Angular", "Spring Boot", "PHP"],
+  databases: ["SQL Server Express", "PostgreSQL"],
+  currentlyOn: ["MES SitflowSolution"],
+  learning: "AI/ML integrations & PowerBI",
 };
 ```
 
@@ -45,6 +43,7 @@ const medAziz = {
 ## 🛠️ Tech stack
 
 ### 🔷 Backend
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -53,12 +52,14 @@ const medAziz = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔶 Frontend
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Databases & tools
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server_Express-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -71,13 +72,13 @@ const medAziz = {
 
 <div align="center">
 
-| Stat | Value |
-|------|-------|
-| 🔥 Total Contributions | 388+ |
-| 📦 Public Repos | 9 |
-| ⭐ Main Language | C# / ASP.NET |
-| 📅 Member Since | Dec 2022 |
-| 🌍 Location | Tunisia |
+| Stat                   | Value        |
+| ---------------------- | ------------ |
+| 🔥 Total Contributions | 388+         |
+| 📦 Public Repos        | 9            |
+| ⭐ Main Language       | C# / ASP.NET |
+| 📅 Member Since        | Dec 2022     |
+| 🌍 Location            | Tunisia      |
 
 <br/>
 
@@ -105,6 +106,6 @@ const medAziz = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code." – John Johnson*
+_"First, solve the problem. Then, write the code." – John Johnson_
 
 </div>

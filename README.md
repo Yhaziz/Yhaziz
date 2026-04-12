@@ -71,18 +71,17 @@ const medAziz = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yhaziz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhaziz&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+| Stat | Value |
+|------|-------|
+| 🔥 Total Contributions | 388+ |
+| 📦 Public Repos | 9 |
+| ⭐ Main Language | C# / ASP.NET |
+| 📅 Member Since | Dec 2022 |
+| 🌍 Location | Tunisia |
 
-</div>
+<br/>
 
----
-
-## 🏆 GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yhaziz&theme=darkhub&no-frame=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+![Yhaziz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yhaziz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff)
 
 </div>
 
